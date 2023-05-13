@@ -1,6 +1,6 @@
 {
   "name": "new-apps",
-  "version": "0.0.1",
+  "version": "0.0.1.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
